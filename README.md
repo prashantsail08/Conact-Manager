@@ -39,8 +39,6 @@ By clicking on update button you can update the user data it will update in data
 ![Screenshot 2023-04-21 115328](https://user-images.githubusercontent.com/100328979/233560690-206182eb-31ac-4af8-9f0b-e08085616667.png)
 
 
-
-
 # Your Profile
 
 
@@ -48,6 +46,7 @@ By clicking on update button you can update the user data it will update in data
 # Login Page 
 
 This is Custom Login Page and made by using spring security.
+
 
 
 # Register Page
