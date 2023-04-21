@@ -34,12 +34,15 @@ By click on Email id Your can view the contact details
 By clicking on update button you can update the user data it will update in database also and if you upload new picture then the old picuture will get deleted.
 
 
+
 ![Screenshot 2023-04-21 115328](https://user-images.githubusercontent.com/100328979/233560690-206182eb-31ac-4af8-9f0b-e08085616667.png)
 
 
 
 
 # Your Profile
+
+
 
 
 
