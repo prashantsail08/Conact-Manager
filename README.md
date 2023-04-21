@@ -43,7 +43,8 @@ By clicking on update button you can update the user data it will update in data
 
 # Your Profile
 
-![Uploading Screenshot 2023-04-21 122133.png…]()
+
+
 
 
 
