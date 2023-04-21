@@ -17,7 +17,7 @@ There are total 7 fields
 
 All Contact which the user added will shown and if you click on email id then you can see user details.
 
-In this page i had done Pagination and i had give only 5 contact . 
+In this page i had done Pagination and i had give only 5 contact. 
 
 ![Screenshot 2023-04-21 114551](https://user-images.githubusercontent.com/100328979/233558078-7f0b8948-a42b-415e-830f-57be3e0d345e.png)
 
@@ -42,6 +42,18 @@ By clicking on update button you can update the user data it will update in data
 
 
 # Your Profile
+
+
+
+# Login Page 
+
+This is Custom Login Page and made by using spring security.
+
+
+# Register Page
+
+In Register Form Email id is the Username for login.
+
 
 
 
