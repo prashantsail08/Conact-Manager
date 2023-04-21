@@ -4,17 +4,29 @@ Contact Manager  by using spring boot
 
 # Add Contact
 
+There are total 7 fields 
+1. Enter Name
+2. Enter Nick Name
+3. Enter Phone Number
+4. Enter Email id
+5. Enter Work
+6. Text Area where you can write Description, I had use TinyMCE for Text Area
+7. Upload File
+
 ![Screenshot 2023-04-21 114909](https://user-images.githubusercontent.com/100328979/233557311-83321957-3ae5-4b01-8a79-41607a8a921c.png)
 
 
 # Show User Contact List
 
+All Contact which the user added will shown and if you click on email id then you can see user details.
+
 ![Screenshot 2023-04-21 114551](https://user-images.githubusercontent.com/100328979/233558078-7f0b8948-a42b-415e-830f-57be3e0d345e.png)
 
 
-
 # View Contact Detail
+
 By click on Email id Your can view the contact details 
+
 ![Screenshot 2023-04-21 114437](https://user-images.githubusercontent.com/100328979/233556562-8060f62b-8004-435d-b37b-8b3d3aaca15e.png)
 
 
