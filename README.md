@@ -69,7 +69,6 @@ This is Custom Login Page and made by using spring security.
 
 
 
-
 # Register Page
 
 In Register Form Email id is the Username for login.
