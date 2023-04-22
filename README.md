@@ -17,6 +17,20 @@ The frontend of the application is built using Html, Css, Javascript, Thymeleaf,
 
 The Contact-Manager project is a good example of a full-stack web application with user authentication and CRUD functionality, and it can be used as a starting point for building more complex applications.
 
+# Homepage
+
+![Screenshot 2023-04-21 124307](https://user-images.githubusercontent.com/100328979/233766917-b16aff62-67a7-481f-b19c-de5184c8e9ec.png)
+
+# Register Page
+
+In Register Form Email id is the Username for login.
+![Screenshot 2023-04-21 122103](https://user-images.githubusercontent.com/100328979/233571997-d2b2af51-4c41-4552-845e-e1a132bca778.png)
+
+# Login Page 
+
+This is Custom Login Page and made by using spring security.
+![Screenshot 2023-04-21 122133](https://user-images.githubusercontent.com/100328979/233630725-03cb29a7-1ef3-4cbd-a572-8afa756d2ac8.png)
+
 # Add Contact
 
 There are total 7 fields 
@@ -60,18 +74,12 @@ By clicking on update button you can update the user data it will update in data
 
 
 
-# Login Page 
-
-This is Custom Login Page and made by using spring security.
-![Screenshot 2023-04-21 122133](https://user-images.githubusercontent.com/100328979/233630725-03cb29a7-1ef3-4cbd-a572-8afa756d2ac8.png)
 
 
 
 
-# Register Page
 
-In Register Form Email id is the Username for login.
-![Screenshot 2023-04-21 122103](https://user-images.githubusercontent.com/100328979/233571997-d2b2af51-4c41-4552-845e-e1a132bca778.png)
+
 
 
 
