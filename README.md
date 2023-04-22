@@ -69,6 +69,9 @@ By clicking on update button you can update the user data it will update in data
 
 
 # Your Profile
+
+Here you wuill get to see the user Details 
+
 ![Screenshot 2023-04-21 115241](https://user-images.githubusercontent.com/100328979/233573085-34d0ca6a-753a-4669-96d7-ea7fca8f5f27.png)
 
 
