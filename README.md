@@ -74,6 +74,9 @@ Here you wuill get to see the user Details
 
 ![Screenshot 2023-04-21 115241](https://user-images.githubusercontent.com/100328979/233573085-34d0ca6a-753a-4669-96d7-ea7fca8f5f27.png)
 
+# Change Password
+![image](https://user-images.githubusercontent.com/100328979/234257761-0825b26c-8d00-451e-bd2e-bc1446a641f2.png)
+
 
 
 
