@@ -78,6 +78,11 @@ Here you wuill get to see the user Details
 ![image](https://user-images.githubusercontent.com/100328979/234257761-0825b26c-8d00-451e-bd2e-bc1446a641f2.png)
 
 
+# Search Bar
+
+By enter the contact name you want to search it will will show you the name if it present in database and by clicking on it it will show you the data of that contact so after that you can update or delete the contact.
+
+![image](https://user-images.githubusercontent.com/100328979/234490075-05dc54be-3e80-4464-8eae-7ea96b4d6868.png)
 
 
 
